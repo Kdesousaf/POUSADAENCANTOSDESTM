@@ -34,3 +34,31 @@ body{
     color: rgb(255, 255, 255);
     text-decoration: none;
 }
+link-principal span{
+    color: lightskyblue;
+}
+.link-topo{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 10px;
+    text-transform: uppercase;
+   
+}
+.link-topo a{
+    display: flex;
+}
+.link-topo:hover {
+    border-bottom: 3px solid #6592c9;
+}
+/*Home site*/
+
+.titulo{
+    background-image: url(../assets/img-fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
