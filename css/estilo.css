@@ -62,3 +62,12 @@ link-principal span{
     justify-content: center;
     align-items: center;
 }
+.titulo-descricao{
+    color: #fff;
+    font-size: 28px;
+    background-color: #0a9077b3;
+    border: 1px solid ;
+    padding: 0 20px;
+    border-radius: 5px;
+    text-align: center;
+}
