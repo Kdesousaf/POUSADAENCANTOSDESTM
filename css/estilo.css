@@ -20,3 +20,12 @@ body{
     width: 100%;
 
 }
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    width: 1024px; 
+    min-width: 350px;
+    
+}
