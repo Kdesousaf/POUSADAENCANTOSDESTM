@@ -149,7 +149,21 @@ link-principal span{
 }
 
 
+/*---- Responsividade-----*/
 
+@media (max-width: 450px){
+    .container{
+        flex-direction: column;
+        border-top: 1px solid whitesmoke ;
+    }
+    .link-principal{
+        width: 15px;
+    }
+    .link-topo{
+        color: gray;
+        margin: 5px;
+
+    }
 
 
 
