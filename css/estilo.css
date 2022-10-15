@@ -119,3 +119,37 @@ link-principal span{
 .quarto:last-child{
     margin-right: 0px;
 }
+
+/*Sobre a pousada*/
+.descricoes{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-bottom: 50px;
+    max-width: 1024px;
+    min-width: 300px;
+    margin: auto;
+}
+.descricao{
+    display: flex;
+    max-width: 45%;
+    margin: 0 10px;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.descricoes-cont{
+    float: 1 1 auto;
+}
+.descricao-img{
+    max-width: 100px;
+    max-height: 113px;
+    object-fit: cover;
+}
+
+
+
+
+
+
